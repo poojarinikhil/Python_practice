@@ -1,2 +1,3 @@
-
-print("hello world")
+D2={"NIKHIL":"SHAWARMA","KARTHIK":"BIRYANI", "MAHEK":"KABAB", "SNEHALI": "BAIGAN"}
+print(D2)
+print(D2["SNEHALI"])
