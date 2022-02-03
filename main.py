@@ -9,3 +9,7 @@ print("this is d3 : ")
 print(d3)
 print("this is D2 : ")
 print(D2)
+# this is used only to print keys
+print(D2.keys())
+# this is to print items
+print(D2.items())
